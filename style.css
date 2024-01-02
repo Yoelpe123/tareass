@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Precios de Bebidas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Precios de Bebidas</h1>
+  </header>
+  <main>
+    <section class="container">
+      <h2>Precio de Gaseosas</h2>
+      <img src="descarga (2).png" alt="logo" class="logo">
+      <div class="product">
+        <div class="name">Coca Cola</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/3.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Coca Cola</div>
+        <div class="size">1 L</div>
+        <div class="price">S/5.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Coca Cola</div>
+        <div class="size">2.5 L</div>
+        <div class="price">S/9.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Coca Cola</div>
+        <div class="size">3 L</div>
+        <div class="price">S/13.50</div>
+      </div>
+      <img src="descarga.jpeg" alt="inka" class="logo3">
+      <div class="product">
+        <div class="name">Inca Kola</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/3.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Inca Kola</div>
+        <div class="size">1 L</div>
+        <div class="price">S/5.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Inca Kola</div>
+        <div class="size">2.5 L</div>
+        <div class="price">S/9.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Coca Cola</div>
+        <div class="size">3 L</div>
+        <div class="price">S/13.50</div>
+      </div>
+      <img src="Fanta-Logo-2008-2010.png" alt="fanta" class="logo1">
+      <div class="product">
+        <div class="name">Fanta</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/3.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Fanta</div>
+        <div class="size">1 L</div>
+        <div class="price">S/5.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Fanta</div>
+        <div class="size">2.5 L</div>
+        <div class="price">S/8.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Fanta</div>
+        <div class="size">3 L</div>
+        <div class="price">S/10.50</div>
+      </div>
+      <img src="images.png" alt="sprite" class="logo1">
+      <div class="product">
+        <div class="name">Sprite</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/3.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Sprite</div>
+        <div class="size">1 L</div>
+        <div class="price">S/5.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Sprite</div>
+        <div class="size">2.5 L</div>
+        <div class="price">S/8.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Sprite</div>
+        <div class="size">3 L</div>
+        <div class="price">S/10.50</div>
+      </div>
+      <img src="KR-png.png" alt="kr" class="logo1">
+      <div class="product">
+        <div class="name">KR</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/1.20</div>
+      </div>
+      <div class="product">
+        <div class="name">KR</div>
+        <div class="size">1 L</div>
+        <div class="price">S/2.50</div>
+      </div>
+      <div class="product">
+        <div class="name">KR</div>
+        <div class="size">2 L</div>
+        <div class="price">S/5.00</div>
+      </div>
+      <div class="product">
+        <div class="name">KR</div>
+        <div class="size">3 L</div>
+        <div class="price">S/7.50</div>
+      </div>
+      <img src="KOLA ESCOCESA.jpg" alt="escosesa" class="logo">
+      <div class="product">
+        <div class="name">Kola Escocesa</div>
+        <div class="size">350 ml</div>
+        <div class="price">S/2.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Kola Escocesa</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/3.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Kola Escocesa</div>
+        <div class="size">1.5 L</div>
+        <div class="price">S/7.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Kola Escocesa</div>
+        <div class="size">2.5 L</div>
+        <div class="price">S/9.50</div>
+      </div>
+      <img src="Pepsi_logo_(2014).svg.png" alt="pepsi" class="logo">
+      <div class="product">
+        <div class="name">Pepsi</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/2.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Pepsi</div>
+        <div class="size">1 L</div>
+        <div class="price">S/3.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Pepsi</div>
+        <div class="size">2.5 L</div>
+        <div class="price">S/6.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Pepsi</div>
+        <div class="size">3 L</div>
+        <div class="price">S/9.50</div>
+      </div>
+      <img src="guarana.png" alt="gaurana" class="logo">
+      <div class="product">
+        <div class="name">Guaraná</div>
+        <div class="size">350 ml</div>
+        <div class="price">S/1.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Guaraná</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/2.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Guaraná</div>
+        <div class="size">2.5 L</div>
+        <div class="price">S/7.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Guaraná</div>
+        <div class="size">3 L</div>
+        <div class="price">S/9.50</div>
+      </div>
+      <img src="black.png" alt="black" class="logo">
+      <div class="product">
+        <div class="name">Black</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/1.20</div>
+      </div>
+      <div class="product">
+        <div class="name">Black</div>
+        <div class="size">1 L</div>
+        <div class="price">S/2.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Black</div>
+        <div class="size">2 L</div>
+        <div class="price">S/5.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Black</div>
+        <div class="size">3 L</div>
+        <div class="price">S/7.50</div>
+      </div>
+      <img src="kiwifresh.png" alt="kiwi" class="logo">
+      <div class="product">
+        <div class="name">kiwifresh</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/1.20</div>
+      </div>
+      <div class="product">
+        <div class="name">kiwifresh</div>
+        <div class="size">2 L</div>
+        <div class="price">S/5.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Kiwifresh</div>
+        <div class="size">3 L</div>
+        <div class="price">S/7.00</div>
+      </div>
+      <img src="ENERGINA.png" alt="Energina" class="logo2">
+      <div class="product">
+        <div class="name">Energina</div>
+        <div class="size">400 ml</div>
+        <div class="price">S/1.20</div>
+      </div>
+      <div class="product">
+        <div class="name">Energina</div>
+        <div class="size">2 L</div>
+        <div class="price">S/5.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Energina</div>
+        <div class="size">3 L</div>
+        <div class="price">S/7.50</div>
+      </div>
+      <img src="Powerade.png" alt="power" class="logo3">
+      <div class="product">
+        <div class="name">Powerade</div>
+        <div class="size">600 ml</div>
+        <div class="price">S/3.00</div>
+      </div>
+      <img src="frugos.png" alt="fruguos" class="logo4">
+      <div class="product">
+        <div class="name">Frugos</div>
+        <div class="size">500 ml</div>
+        <div class="price">S/2.00</div>
+      </div>
+      <img src="energizante 360.jpeg" alt="360" class="logo5">
+      <div class="product">
+        <div class="name">360 energizante</div>
+        <div class="size">300 ml</div>
+        <div class="price">S/2.50</div>
+      </div>
+      <img src="fruvi.png" alt="fruvi" class="logo6">
+      <div class="product">
+        <div class="name">Fruvi</div>
+        <div class="size">1 L</div>
+        <div class="price">S/4.00</div>
+      </div>
+      <img src="kris.png" alt="kris" class="logo4">
+      <div class="product">
+        <div class="name">Kris</div>
+        <div class="size">450 ml</div>
+        <div class="price">S/1.20</div>
+      </div>
+      <div class="product">
+        <div class="name">Kris</div>
+        <div class="size">1.5 L</div>
+        <div class="price">S/4.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Kris</div>
+        <div class="size">3 L</div>
+        <div class="price">S/7.50</div>
+      </div>
+      <img src="oro.png" alt="oro" class="logo4">
+    </div>
+    <div class="product">
+      <div class="name">Oro</div>
+      <div class="size">450 ml</div>
+      <div class="price">S/1.20</div>
+    </div>
+  </div>
+  <div class="product">
+    <div class="name">Oro</div>
+    <div class="size">1 L</div>
+    <div class="price">S/2.50</div>
+  </div>
+</div>
+<div class="product">
+  <div class="name">Oro</div>
+  <div class="size">2 L</div>
+  <div class="price">S/5.50</div>
+</div>
+</div>
+<div class="product">
+  <div class="name">Oro</div>
+  <div class="size">3 L</div>
+  <div class="price">S/7.50</div>
+</div>
+<img src="cielo.png" alt="cielo" class="logo1">
+</div>
+<div class="product">
+  <div class="name">Cielo</div>
+  <div class="size">500 ml</div>
+  <div class="price">S/1.20</div>
+</div>
+</div>
+<div class="product">
+  <div class="name">Cielo</div>
+  <div class="size">1 L</div>
+  <div class="price">S/2.50</div>
+</div>
+</div>
+<div class="product">
+  <div class="name">Cielo</div>
+  <div class="size">2 L</div>
+  <div class="price">S/4.50</div>
+</div>
+</div>
+<div class="product">
+  <div class="name">Cielo</div>
+  <div class="size">7 L</div>
+  <div class="price">S/9.50</div>
+</div>
+<img src="san luis.png" alt="agua" class="logo4">
+</div>
+<div class="product">
+  <div class="name">San Luis</div>
+  <div class="size">500 ml</div>
+  <div class="price">S/1.50</div>
+</div>
+</div>
+<div class="product">
+  <div class="name">San Luis</div>
+  <div class="size">1 L</div>
+  <div class="price">S/2.50</div>
+</div>
+</div>
+<div class="product">
+  <div class="name">San Luis</div>
+  <div class="size">2.5 L</div>
+  <div class="price">S/4.50</div>
+</div>
+</div>
+<div class="product">
+  <div class="name">San Luis</div>
+  <div class="size">7 L</div>
+  <div class="price">S/10.50</div>
+</div>
+<img src="loa.jpeg" alt="agua" class="logo4">
+</div>
+<div class="product">
+  <div class="name">Loa</div>
+  <div class="size">500 ml</div>
+  <div class="price">S/1.20</div>
+</div>
+</div>
+<div class="product">
+  <div class="name">Loa</div>
+  <div class="size">1 L</div>
+  <div class="price">S/2.50</div>
+</div>
+  
+      
+    </section>
+    <section class="container">
+      <h2>Precio de Cervezas</h2>
+      <img src="arequipeña.jpg" alt="cerveza" class="logo4">
+      <div class="product">
+        <div class="name">Arequipeña</div>
+        <div class="size">620 ml</div>
+        <div class="price">S/7.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Arequipeña</div>
+        <div class="size">355 ml</div>
+        <div class="price">S/4.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Arequipeña</div>
+        <div class="size">450 ml</div>
+        <div class="price">S/5.00</div>
+      </div>
+      <img src="cusqueña.png" alt="cerveza" class="logo">
+      <div class="product">
+        <div class="name">Cusqueña Trigo</div>
+        <div class="size">620 ml</div>
+        <div class="price">S/7.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Cusqueña Trigo</div>
+        <div class="size">355 ml</div>
+        <div class="price">S/4.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Cusqueña Trigo</div>
+        <div class="size">450ml</div>
+        <div class="price">S/5.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Cusqueña Negra</div>
+        <div class="size">620 ml</div>
+        <div class="price">S/7.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Cusqueña Negra</div>
+        <div class="size">355 ml</div>
+        <div class="price">S/4.00</div>
+      </div>
+      <img src="pilsen.png" alt="cerveza" class="logo1">
+      <div class="product">
+        <div class="name">Pilsen Callao </div>
+        <div class="size">620 ml</div>
+        <div class="price">S/7.50</div>
+      </div>
+      <div class="product">
+        <div class="name">Pilsen Callao</div>
+        <div class="size">355 ml</div>
+        <div class="price">S/4.00</div>
+      </div>
+      <div class="product">
+        <div class="name">Pilsen Callao</div>
+        <div class="size">450 ml</div>
+        <div class="price">S/5.00</div>
+      </div>
+
+      <!-- Agrega más productos de cervezas aquí -->
+    </section>
+  </main>
+</body>
+</html>
